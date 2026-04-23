@@ -173,11 +173,12 @@ WHERE D.ESTRUTURA = '1.01.01.012'
 
 ---
 
+
 ## 👤 Autor
 
 **Felipe Rodrigues**  
 Economista · Analista de Dados  
-[LinkedIn](https://www.linkedin.com/in/felipe-rodrigues) · [GitHub](https://github.com/felipe-rodrigues)
+[LinkedIn](https://www.linkedin.com/in/felipe-rodrigues-gomes-2b7b60b2/) · [GitHub](https://github.com/frrodriguesgomes-alt)
 
 ---
 
